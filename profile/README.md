@@ -36,6 +36,10 @@ Ser referência em tecnologia e inovação, destacando-se pelo impacto positivo 
 | **Diego Sales Gamero**           | Developer         | [<img src="https://skillicons.dev/icons?i=github&color=green" width="50" />](https://github.com/DiegoSGamero) | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50" />](https://www.linkedin.com/in/diego-gamero/) |
 | **Tiago Alberto dos Santos**     | Developer         | [<img src="https://skillicons.dev/icons?i=github&color=green" width="50" />](https://github.com/tiago17santos) | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50" />](https://www.linkedin.com/in/tiago-alberto-303909167/) |
 
-
-
 </div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef456705-592a-480d-af82-652ef6e2acf4" alt="Captura de tela 2025-03-22 205044"/>
+</p>
