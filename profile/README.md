@@ -22,18 +22,33 @@ Ser referência em tecnologia e inovação, destacando-se pelo impacto positivo 
 
 ---
 
+
+
 <div align="center">
 
 ## **Equipe VORTEK**
-| **Membro**                      | **Função**        | **GitHub**                                                                 | **LinkedIn**                                                                 |
-|----------------------------------|-------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| **Mariana Oliveira**             | Product Owner     | [<img src="https://skillicons.dev/icons?i=github&color=green" width="50" />](https://github.com/mariinetic) | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50" />](https://www.linkedin.com/in/oliveirasmari/) |
-| **Thiago Abreu**                 | Scrum Master      | [<img src="https://skillicons.dev/icons?i=github&color=green" width="50" />](https://github.com/thiagosabreu) | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50" />](https://www.linkedin.com/in/thiagosabreu/) |
-| **João Pedro Ventura**           | Developer         | [<img src="https://skillicons.dev/icons?i=github&color=green" width="50" />](https://github.com/jaupventur) | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50" />](https://www.linkedin.com/in/jo%C3%A3o-pedro-ventura-51988a21b/) |
-| **Luiz Ricardo Da Silva**        | Developer         | [<img src="https://skillicons.dev/icons?i=github&color=green" width="50" />](https://github.com/luizricar) | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50" />](https://www.linkedin.com/in/luiz-ricardo-mendes/) |
-| **Jose Wesley de Lima**          | Developer         | [<img src="https://skillicons.dev/icons?i=github&color=green" width="50" />](https://github.com/jwesleey) | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50" />](https://www.linkedin.com/in/jwesley/) |
-| **Diego Sales Gamero**           | Developer         | [<img src="https://skillicons.dev/icons?i=github&color=green" width="50" />](https://github.com/DiegoSGamero) | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50" />](https://www.linkedin.com/in/diego-gamero/) |
-| **Tiago Alberto dos Santos**     | Developer         | [<img src="https://skillicons.dev/icons?i=github&color=green" width="50" />](https://github.com/tiago17santos) | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50" />](https://www.linkedin.com/in/tiago-alberto-303909167/) |
+| Semestre | Projeto       | Empresa Parceira | Descrição                                                                                                                                                | Repositórios                          |
+|----------|---------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| 3º SEM   | Vortek TimeSync | Altave           | Aplicação web projetada para gerenciar o controle de ponto de funcionários em empresas terceirizadas, especialmente em áreas de manutenção. A plataforma oferece uma solução eficiente para o registro e acompanhamento das horas trabalhadas, otimizando a administração de equipes e assegurando maior precisão nos dados. | [Frontend](https://github.com/Vortek-API/frontend) <br> <br> [Backend](https://github.com/Vortek-API/backend) <br> <br> [Docs](https://github.com/Vortek-API/docs) |
+
+
+
+ <br> 
+ <br> 
+ <br> 
+
+| LinkedIn & GitHub                                                                                 | Integrante               | Vortek TimeSync (Altave) |
+|--------------------------------------------------------------------------------------------------|--------------------------|--------------------------|
+| [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50"/>](https://www.linkedin.com/in/oliveirasmari/) [<img src="https://skillicons.dev/icons?i=github&color=green" width="50"/>](https://github.com/mariinetic) | Mariana Oliveira         | Product Owner            |
+| [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50"/>](https://www.linkedin.com/in/thiagosabreu/) [<img src="https://skillicons.dev/icons?i=github&color=green" width="50"/>](https://github.com/thiagosabreu)   | Thiago Abreu             | Scrum Master             |
+| [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50"/>](https://www.linkedin.com/in/jo%C3%A3o-pedro-ventura-51988a21b/) [<img src="https://skillicons.dev/icons?i=github&color=green" width="50"/>](https://github.com/jaupventur)  | João Pedro Ventura       | Developer   |
+| [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50"/>](https://www.linkedin.com/in/luiz-ricardo-mendes/) [<img src="https://skillicons.dev/icons?i=github&color=green" width="50"/>](https://github.com/luizricar)    | Luiz Ricardo Da Silva    | Developer   |
+| [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50"/>](https://www.linkedin.com/in/jwesley/) [<img src="https://skillicons.dev/icons?i=github&color=green" width="50"/>](https://github.com/jwesleey)       | Jose Wesley de Lima      | Developer   |
+| [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50"/>](https://www.linkedin.com/in/diego-gamero/) [<img src="https://skillicons.dev/icons?i=github&color=green" width="50"/>](https://github.com/DiegoSGamero)   | Diego Sales Gamero       | Developer  |
+| [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50"/>](https://www.linkedin.com/in/tiago-alberto-303909167/) [<img src="https://skillicons.dev/icons?i=github&color=green" width="50"/>](https://github.com/tiago17santos) | Tiago Alberto dos Santos | Developer  |
+
+
+
 
 </div>
 
