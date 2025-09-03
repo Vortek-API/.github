@@ -38,7 +38,7 @@ Ser referência em tecnologia e inovação, destacando-se pelo impacto positivo 
  <br> 
  <br> 
 
-| LinkedIn & GitHub                                                                                 | Integrante               | Vortek TimeSync (Altave) |  |
+| LinkedIn & GitHub                                                                                 | Integrante               | Vortek TimeSync (Altave) |  SJFlow (Prefeitura de São José dos Campos)  |
 |--------------------------------------------------------------------------------------------------|--------------------------|--------------------------|--------------------------|
 | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50"/>](https://www.linkedin.com/in/oliveirasmari/) [<img src="https://skillicons.dev/icons?i=github&color=green" width="50"/>](https://github.com/mariinetic) | Mariana Oliveira         | Product Owner            | Product Owner            |
 | [<img src="https://skillicons.dev/icons?i=linkedin&color=0077B5" width="50"/>](https://www.linkedin.com/in/thiagosabreu/) [<img src="https://skillicons.dev/icons?i=github&color=green" width="50"/>](https://github.com/thiagosabreu)   | Thiago Abreu             | Scrum Master             | Developer             |
